@@ -16,6 +16,23 @@ Terraform to GitOps, SLOs and runbooks.
 - **[portfolio-site](https://github.com/Olivg92/portfolio-site)**: my portfolio site itself, in
   English and French, checked on every pull request and deployed to GitHub Pages.
 
+## Tools
+
+**Cloud and IaC**<br>
+![AWS](badges/aws.svg) ![Terraform](badges/terraform.svg) ![Ansible](badges/ansible.svg) ![VMware vSphere](badges/vsphere.svg)
+
+**Kubernetes and GitOps**<br>
+![Kubernetes](badges/kubernetes.svg) ![Rancher](badges/rancher.svg) ![Argo CD](badges/argocd.svg) ![Helm](badges/helm.svg) ![Vault](badges/vault.svg)
+
+**Observability**<br>
+![Prometheus](badges/prometheus.svg) ![Grafana](badges/grafana.svg) ![Elastic Stack](badges/elastic.svg) ![Datadog](badges/datadog.svg) ![OpenTelemetry](badges/opentelemetry.svg)
+
+**CI/CD**<br>
+![GitHub Actions](badges/github-actions.svg) ![GitLab CI](badges/gitlab.svg) ![Jenkins](badges/jenkins.svg) ![Docker](badges/docker.svg)
+
+**Systems**<br>
+![Linux](badges/linux.svg) ![Debian](badges/debian.svg) ![Bash](badges/bash.svg) ![Python](badges/python.svg)
+
 ## Links
 
 - Portfolio: [oguandalini.com](https://oguandalini.com/)
